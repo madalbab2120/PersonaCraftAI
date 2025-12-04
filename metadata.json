@@ -1,0 +1,7 @@
+{
+  "name": "PersonaCraft AI",
+  "description": "An AI-powered image creator that analyzes your photo and suggests creative variations (expressions, clothing, scenes) to generate stunning new visuals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
